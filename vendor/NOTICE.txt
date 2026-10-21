@@ -1,0 +1,6 @@
+Third-party runtime: Google MediaPipe Tasks Vision 0.10.21
+Source: https://github.com/google-ai-edge/mediapipe
+Distribution: https://www.npmjs.com/package/@mediapipe/tasks-vision
+Model: pose_landmarker_lite float16 v1 from Google MediaPipe Models.
+Files are unmodified copies. Their embedded copyright and license notices are retained.
+Documentation: https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker/web_js
